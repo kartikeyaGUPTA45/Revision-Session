@@ -1,2 +1,2 @@
-# Revision-Session-
+# Revision-Session
 Revision Session on Python
